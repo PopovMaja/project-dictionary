@@ -1,0 +1,9 @@
+.formKeyword {
+  text-align: center;
+}
+.inputKeyword {
+  border: 3px solid brown;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin-top: 15px;
+}
