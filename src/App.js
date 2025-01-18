@@ -13,13 +13,18 @@ export default function App() {
         </main>
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/PopovMaja" target="_blank">
+          <a
+            href="https://github.com/PopovMaja"
+            target="_blank"
+            rel="noreferrer"
+          >
             Maja Popov
           </a>{" "}
           and is on{" "}
           <a
             href="https://github.com/PopovMaja/project-dictionary"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>{" "}
@@ -27,6 +32,7 @@ export default function App() {
           <a
             href="https://english-words-dictionary.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify.
           </a>
