@@ -11,6 +11,26 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          This project was coded by{" "}
+          <a href="https://github.com/PopovMaja" target="_blank">
+            Maja Popov
+          </a>{" "}
+          and is on{" "}
+          <a
+            href="https://github.com/PopovMaja/project-dictionary"
+            target="_blank"
+          >
+            GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://english-words-dictionary.netlify.app/"
+            target="_blank"
+          >
+            Netlify.
+          </a>
+        </footer>
       </div>
     </div>
   );
