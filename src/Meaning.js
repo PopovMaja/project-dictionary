@@ -11,8 +11,7 @@ export default function Meaning(props) {
               <strong>Definiton:</strong> {definiton.definition}
               <br />
               <em>
-                <strong>Example:</strong>
-                {definiton.example}
+                <strong>{definiton.example}</strong>
               </em>
             </p>
           </div>
