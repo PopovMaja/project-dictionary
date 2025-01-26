@@ -20,7 +20,7 @@ export default function App() {
           >
             Maja Popov
           </a>{" "}
-          and is on{" "}
+          ,is open-sourced on{" "}
           <a
             href="https://github.com/PopovMaja/project-dictionary"
             target="_blank"
