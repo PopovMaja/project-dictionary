@@ -4,6 +4,11 @@ body {
 a {
   color: rgb(80, 43, 9);
 }
+.App {
+  max-width: 960;
+  margin: 0 auto;
+}
+
 .App-header {
   font-size: 48px;
   font-weight: 700;
